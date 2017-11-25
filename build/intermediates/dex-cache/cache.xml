@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\FlameXander\.gradle\caches\modules-2\files-2.1\com.badlogicgames.gdx\gdx\1.9.7\8a021ba0bb6555c25dfc272697d379215aa05ed1\gdx-1.9.7.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="8a021ba0bb6555c25dfc272697d379215aa05ed1">
+        <dex dex="C:\Users\FlameXander\Desktop\android-rpg-game\android\build\intermediates\pre-dexed\debug\gdx-1.9.7_8fc6175a4c45d0ce4df90d9ff149105a0406600f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\FlameXander\.gradle\caches\modules-2\files-2.1\com.badlogicgames.gdx\gdx-backend-android\1.9.7\884a964d5a09643269390bdc4d30fc7bf8b0b9eb\gdx-backend-android-1.9.7.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="884a964d5a09643269390bdc4d30fc7bf8b0b9eb">
+        <dex dex="C:\Users\FlameXander\Desktop\android-rpg-game\android\build\intermediates\pre-dexed\debug\gdx-backend-android-1.9.7_4937f6a0a30ee9a375c04b2f883c9b40947d3baa.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\FlameXander\.gradle\caches\modules-2\files-2.1\com.badlogicgames.gdx\gdx-freetype\1.9.7\aa953bdba7adc9c8f301274ddc797705460565ab\gdx-freetype-1.9.7.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="aa953bdba7adc9c8f301274ddc797705460565ab">
+        <dex dex="C:\Users\FlameXander\Desktop\android-rpg-game\android\build\intermediates\pre-dexed\debug\gdx-freetype-1.9.7_a4bc0130552e7d33acf1bd185f5f283cf81de181.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\FlameXander\Desktop\android-rpg-game\core\build\libs\core-1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="77ad71f7680ef666c44823312a641b5a0e2fd8b9">
+        <dex dex="C:\Users\FlameXander\Desktop\android-rpg-game\android\build\intermediates\pre-dexed\debug\core-1.0_ca555e7433306b68efa1f8d1a0110308b41686c3.jar" />
+    </item>
+
+</items>
